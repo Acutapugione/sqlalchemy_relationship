@@ -1,0 +1,4 @@
+/.venv
+/.vscode
+/main.ipynb
+/my_db.sql
